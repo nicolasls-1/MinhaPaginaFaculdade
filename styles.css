@@ -1,12 +1,13 @@
 body{
-  background: linear-gradient(to right, rgb(0, 152, 240), rgb(255, 255, 255), rgb(0, 30, 94));
+  background: linear-gradient(to right, rgb(109, 185, 230), rgb(255, 255, 255), rgb(17, 69, 182));
+  font-family: 'Roboto', sans-serif;
 }
 
-h1{
-   color: rgb(63, 26, 196);
+#titulo{
+   color: rgb(15, 14, 15);
    font-style: oblique;
    font-size: 35px;
-   
+   text-decoration: underline;
 }
 
 h3{
@@ -15,9 +16,10 @@ h3{
   font-size: 35px;
 }
 
-h4{
+#subtitulo{
    color: rgb(63, 26, 196);
   font-style: oblique;
   font-size: 20px;
+
 
 }
